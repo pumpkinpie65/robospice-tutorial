@@ -14,7 +14,6 @@ public class BaseActivity extends Activity {
 
     }
 
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
