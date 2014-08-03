@@ -19,7 +19,7 @@
   		android:exported="false" />
         
         <activity
-            android:name="com.sliceofandroid.robospicetutorial.BaseActivity"
+            android:name="com.sliceofandroid.robospicetutorial.SpicedActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
